@@ -1,0 +1,31 @@
+{
+  "name": "view-all-spotify-playlists-ffext",
+  "version": "0.1.0",
+  "description": "A firefox extension allowing you to view all of a user's playlists",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "see LICENSE.txt",
+  "devDependencies": {
+    "@olsonpm/eslint-config-personal": "github:olsonpm/eslint-config-personal#0f7f4ae",
+    "eslint": "^8.23.1",
+    "prettier": "^2.7.1"
+  },
+  "eslintConfig": {
+    "extends": "@olsonpm/eslint-config-personal",
+    "globals": {
+      "browser": true
+    },
+    "parserOptions": {
+      "sourceType": "module"
+    }
+  },
+  "prettier": {
+    "arrowParens": "avoid",
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  }
+}

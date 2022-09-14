@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "View All Spotify Playlists",
+  "version": "0.1",
+  "description": "View all of a user's playlists - bypassing spotify's limit of 200",
+  "icons": {
+    "48": "logo.svg",
+    "96": "logo.svg"
+  },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "https://*.spotify.com/*",
+    "storage"
+  ],
+  "options_ui": {
+    "page": "options.html"
+  },
+  "background": {
+    "page": "background-page.html",
+    "persistent": true
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "view-all-spotify-playlists@mozilla.org"
+    }
+  }
+}

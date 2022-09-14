@@ -1,0 +1,121 @@
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ns="&amp;#38;ns_ai;">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="-30.49398"
+     inkscape:cy="52.149125"
+     inkscape:window-width="2560"
+     inkscape:window-height="1374"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="bg"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#140c0b;fill-opacity:1;fill-rule:evenodd;stroke-width:0.262912;stroke-dasharray:none"
+       id="rect111"
+       width="12.700284"
+       height="12.700369"
+       x="0.00021950895"
+       y="0.00036722168"
+       ry="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="spotify circle">
+    <circle
+       style="fill:#1ed760;fill-opacity:1;stroke-width:0.526809;stroke-dasharray:none"
+       id="path2409"
+       cx="6.3499999"
+       cy="6.3499999"
+       r="5.9199715" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="monocle">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#140c0b;stroke-width:0.580196;stroke-dasharray:none;stroke-opacity:1"
+       id="path4338"
+       cx="8.2505217"
+       cy="4.3869848"
+       rx="2.0257087"
+       ry="2.0397377"
+       inkscape:label="path4338" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#140c0b;stroke-width:0.358767;stroke-dasharray:none;stroke-opacity:1"
+       id="path4393"
+       sodipodi:type="arc"
+       sodipodi:cx="-5.8102241"
+       sodipodi:cy="9.8694801"
+       sodipodi:rx="0.54206532"
+       sodipodi:ry="0.54580271"
+       sodipodi:start="6.0174562"
+       sodipodi:end="3.6422465"
+       sodipodi:arc-type="arc"
+       d="m -5.2871845,9.7261453 a 0.54206532,0.54580271 0 0 1 -0.247201,0.6131867 0.54206532,0.54580271 0 0 1 -0.6527188,-0.07756 0.54206532,0.54580271 0 0 1 -0.098657,-0.6542818"
+       sodipodi:open="true"
+       transform="rotate(-97.724683)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.289013px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10.47138,4.801513 v 5.274902"
+       id="path6635" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="mustache">
+    <switch
+       id="switch7372"
+       transform="matrix(0.00973657,0,0,0.01179512,2.6987863,4.1458207)">
+	<foreignObject
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   x="0"
+   y="0"
+   width="1"
+   height="1">
+
+	</foreignObject>
+
+	<g
+   ns:extraneous="self"
+   id="g7370"
+   style="fill:#140c0f;fill-opacity:1">
+		<path
+   d="m 770.63173,375.66861 c 0,0 -29.34353,145.06998 -198.09693,140.23835 C 441.10726,512.16244 417.574,497.66318 374.88757,479.46035 330.63642,496.65618 308.66788,512.16244 177.24034,515.90696 8.59937,520.73859 -20.631733,375.66861 -20.631733,375.66861 c 0,0 52.39113,66.79742 124.344613,4.71085 37.66315,-32.49278 58.53431,-82.1534 107.10292,-98.94334 38.56257,-13.40781 77.50273,-2.27951 113.36705,14.99359 0,0 25.10762,15.87226 51.21205,16.11497 C 398.92861,312.34718 422.66918,298 422.66918,298 c 44.40879,-22.58791 99.38575,-35.63334 142.33298,-3.14057 31.2548,23.67504 51.60414,59.91234 81.28496,85.52003 71.95348,62.08657 124.34461,-4.71085 124.34461,-4.71085 z"
+   id="path7368"
+   style="fill:#140c0f;fill-opacity:1;stroke-width:1.16534"
+   sodipodi:nodetypes="ccccccccccccc" />
+
+	</g>
+
+</switch>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  background-color: #121212;
+  color: white;
+  min-height: 300px;
+  padding: 20px;
+}
+
+input {
+  margin-left: 10px;
+}
+
+#playlist-limit {
+  width: 100px;
+}
+
+button {
+  padding: 8px 12px;
+}
+
+button + button {
+  margin-left: 10px;
+}
+
+#form-actions {
+  margin-top: 20px;
+}
