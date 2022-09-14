@@ -2,7 +2,9 @@ import settingDefaults from '../setting-defaults.mjs'
 
 const viewAllPlaylists = async ({ url }) => {
   const { playlistLimit } = await browser.storage.sync.get('playlistLimit')
-  return { redirectUrl: url.replace(/limit=\d+/, `limit=${playlistLimit}`) }
+  if (!url.includes(`limit=${playlistLimit}`)) {
+    return { redirectUrl: url.replace(/limit=\d+/, `limit=${playlistLimit}`) }
+  }
 }
 
 browser.webRequest.onBeforeRequest.addListener(

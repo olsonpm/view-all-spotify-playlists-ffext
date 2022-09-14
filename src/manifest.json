@@ -14,10 +14,10 @@
     "storage"
   ],
   "options_ui": {
-    "page": "options.html"
+    "page": "options/index.html"
   },
   "background": {
-    "page": "background-page.html",
+    "page": "background-page/index.html",
     "persistent": true
   },
   "browser_specific_settings": {

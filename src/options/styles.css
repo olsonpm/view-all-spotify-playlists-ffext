@@ -21,10 +21,6 @@ button {
   padding: 8px 12px;
 }
 
-button + button {
-  margin-left: 10px;
-}
-
-#form-actions {
+#restore-defaults {
   margin-top: 20px;
 }
