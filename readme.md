@@ -1,6 +1,6 @@
 ## View All Spotify Playlists
 
-A firefox extension which allows you to override spotify's limit of viewing 200
+[A firefox extension](https://addons.mozilla.org/en-US/firefox/addon/view-all-spotify-playlists/) which allows you to override spotify's limit of viewing 200
 playlists
 
 ### To hack on this extension locally
